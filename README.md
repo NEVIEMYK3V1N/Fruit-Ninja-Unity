@@ -15,3 +15,6 @@ The game includes the typical Fruit Ninja game features:
     restart game functionality
 
 The game can be directly executed on Windows, Mac, Linux Systems using the Fruit Ninja application included directly in the folder.
+
+The scripts for different objects are attached for reference, and are NOT NEEDED TO EXECUTE THE GAME.
+    ONLY the Fruit Ninja Folder is needed to run the game.
